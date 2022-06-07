@@ -1,0 +1,38 @@
+[
+{
+"cityid": 1,
+"cityname": "London",
+"currentcondition": "Humid",
+"temperature": "23C",
+"windspeed": "15 mph",
+"winddirection": "North-East",
+"windchillfactor": "2.5"
+},
+{
+"cityid": "1",
+"cityname": "Bristol",
+"currentcondition": "Sunny",
+"temperature": "29 C",
+"windspeed": "10 mph",
+"winddirection": "South-East",
+"windchillfactor": "15"
+}, {
+"cityid": 1,
+"cityname": "London",
+"currentcondition": "Humid",
+"temperature": "23C",
+"windspeed": "15 mph",
+"winddirection": "North-East",
+"windchillfactor": "2.5",
+
+},
+{
+"cityid": "1",
+"cityname": "Bristol",
+"currentcondition": "Sunny",
+"temperature": "29 C",
+"windspeed": "10 mph",
+"winddirection": "South-East",
+"windchillfactor": "15"
+}
+]
