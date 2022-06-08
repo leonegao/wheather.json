@@ -1,6 +1,6 @@
 [
 {
-"cityid": 1,
+"cityid": "1",
 "cityname": "London",
 "currentcondition": "Humid",
 "temperature": "23C",
@@ -23,7 +23,7 @@
 "temperature": "23C",
 "windspeed": "15 mph",
 "winddirection": "North-East",
-"windchillfactor": "2.5",
+"windchillfactor": "2.5"
 
 },
 {
