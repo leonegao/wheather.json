@@ -7,16 +7,16 @@
 "windchillfactor": "2.5"
 },
 {
-"cityid": "1",
-"cityname": "Bristol",
+"cityid": "2",
+"cityname": "Manchester",
 "currentcondition": "Sunny",
 "temperature": "29 C",
 "windspeed": "10 mph",
 "winddirection": "South-East",
 "windchillfactor": "15"
 }, {
-"cityid": 1,
-"cityname": "London",
+"cityid": 3,
+"cityname": "Leeds",
 "currentcondition": "Humid",
 "temperature": "23C",
 "windspeed": "15 mph",
@@ -25,8 +25,8 @@
 
 },
 {
-"cityid": "1",
-"cityname": "Bristol",
+"cityid": "4",
+"cityname": "Newcastle",
 "currentcondition": "Sunny",
 "temperature": "29 C",
 "windspeed": "10 mph",
