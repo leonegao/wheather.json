@@ -11,7 +11,7 @@
 "cityname": "Manchester",
 "currentcondition": "Sunny",
 "temperature": "29 C",
-"windspeed": "10 mph",
+"windspeed": "17 mph",
 "winddirection": "South-East",
 "windchillfactor": "15"
 }, {
@@ -19,16 +19,24 @@
 "cityname": "Leeds",
 "currentcondition": "Humid",
 "temperature": "23C",
-"windspeed": "15 mph",
+"windspeed": "16 mph",
 "winddirection": "North-East",
-"windchillfactor": "2.5"
+"windchillfactor": "7"
 
-},
-{
-"cityid": "4",
+}, {
+"cityid": 4,
+"cityname": "Leeds",
+"currentcondition": "Sunny",
+"temperature": "37C",
+"windspeed": "20 mph",
+"winddirection": "North",
+"windchillfactor": "47"
+
+},{
+"cityid": "5",
 "cityname": "Newcastle",
 "currentcondition": "Sunny",
 "temperature": "29 C",
-"windspeed": "10 mph",
-"winddirection": "South-East",
-"windchillfactor": "15"}]
+"windspeed": "19 mph",
+"winddirection": "South",
+"windchillfactor": "38"}]
