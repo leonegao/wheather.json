@@ -4,7 +4,7 @@
 "temperature": "23C",
 "windspeed": "15 mph",
 "winddirection": "North-East",
-"windchillfactor": "2.5"
+"windchillfactor": "18.5"
 },
 {
 "cityid": "2",
@@ -13,7 +13,7 @@
 "temperature": "29 C",
 "windspeed": "17 mph",
 "winddirection": "South-East",
-"windchillfactor": "15"
+"windchillfactor": "16.8"
 }, {
 "cityid": 3,
 "cityname": "Leeds",
@@ -21,7 +21,7 @@
 "temperature": "23C",
 "windspeed": "16 mph",
 "winddirection": "North-East",
-"windchillfactor": "7"
+"windchillfactor": "20"
 
 }, {
 "cityid": 4,
@@ -30,7 +30,7 @@
 "temperature": "37C",
 "windspeed": "20 mph",
 "winddirection": "North",
-"windchillfactor": "47"
+"windchillfactor": "27"
 
 },{
 "cityid": "5",
@@ -39,4 +39,25 @@
 "temperature": "29 C",
 "windspeed": "19 mph",
 "winddirection": "South",
-"windchillfactor": "38"}]
+"windchillfactor": "25"},{
+"cityid": "6",
+"cityname": "Aberdeen",
+"currentcondition": "Sunny",
+"temperature": "27 C",
+"windspeed": "13 mph",
+"winddirection": "South-East",
+"windchillfactor": "23"},{
+"cityid": "7",
+"cityname": "Armagh",
+"currentcondition": "Sunny",
+"temperature": "24 C",
+"windspeed": "12 mph",
+"winddirection": "East",
+"windchillfactor": "25"},{
+"cityid": "8",
+"cityname": "Newcastle",
+"currentcondition": "Sunny",
+"temperature": "26 C",
+"windspeed": "17 mph",
+"winddirection": "North-East",
+"windchillfactor": "25"}]
