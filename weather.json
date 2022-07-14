@@ -1,63 +1,75 @@
 [{"cityid": "1",
 "cityname": "London",
 "currentcondition": "Humid",
-"temperature": "23C",
+"temperature": "23 ℃",
 "windspeed": "15 mph",
 "winddirection": "North-East",
-"windchillfactor": "18.5"
+"windchillfactor": "18.5",
+"icon":"images/sun.png"
 },
 {
 "cityid": "2",
 "cityname": "Manchester",
 "currentcondition": "Sunny",
-"temperature": "29 C",
+"temperature": "29 ℃",
 "windspeed": "17 mph",
 "winddirection": "South-East",
-"windchillfactor": "16.8"
+"windchillfactor": "16 ℃",
+"icon":"images/sun.png"
 }, {
 "cityid": 3,
 "cityname": "Leeds",
 "currentcondition": "Humid",
-"temperature": "23C",
+"temperature": "23 ℃",
 "windspeed": "16 mph",
 "winddirection": "North-East",
-"windchillfactor": "20"
+"windchillfactor": "20 ℃",
+"icon":"images/sun.png"
 
 }, {
 "cityid": 4,
 "cityname": "Bristol",
 "currentcondition": "Sunny",
-"temperature": "37C",
+"temperature": "37 ℃",
 "windspeed": "20 mph",
 "winddirection": "North",
-"windchillfactor": "27"
+"windchillfactor": "27 ℃",
+"icon":"images/sun.png"
 
 },{
 "cityid": "5",
 "cityname": "Newcastle",
 "currentcondition": "Sunny",
-"temperature": "29 C",
+"temperature": "29 ℃",
 "windspeed": "19 mph",
 "winddirection": "South",
-"windchillfactor": "25"},{
+"windchillfactor": "25 ℃",
+"icon":"images/sun.png"
+},{
 "cityid": "6",
 "cityname": "Aberdeen",
 "currentcondition": "Sunny",
-"temperature": "27 C",
+"temperature": "27 ℃",
 "windspeed": "13 mph",
 "winddirection": "South-East",
-"windchillfactor": "23"},{
+"windchillfactor": "23 ℃",
+"icon":"images/sun.png"
+},{
 "cityid": "7",
 "cityname": "Armagh",
 "currentcondition": "Sunny",
-"temperature": "24 C",
+"temperature": "24 ℃",
 "windspeed": "12 mph",
 "winddirection": "East",
-"windchillfactor": "25"},{
+"windchillfactor": "25 ℃",
+"icon":"images/sun.png"
+},{
 "cityid": "8",
-"cityname": "Newcastle",
+"cityname": "Brighton",
 "currentcondition": "Sunny",
-"temperature": "26 C",
+"temperature": "26 ℃",
 "windspeed": "17 mph",
 "winddirection": "North-East",
-"windchillfactor": "25"}]
+"windchillfactor": "25 ℃",
+"icon":"images/sun.png"
+}]
