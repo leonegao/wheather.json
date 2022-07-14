@@ -15,7 +15,7 @@
 "windspeed": "17 mph",
 "winddirection": "South-East",
 "windchillfactor": "16 ℃",
-"icon":"images/sun.png"
+"icon":"images/cloud_sun.png"
 }, {
 "cityid": 3,
 "cityname": "Leeds",
@@ -24,7 +24,7 @@
 "windspeed": "16 mph",
 "winddirection": "North-East",
 "windchillfactor": "20 ℃",
-"icon":"images/sun.png"
+"icon":"images/cloud_sun.png"
 
 }, {
 "cityid": 4,
@@ -53,7 +53,7 @@
 "windspeed": "13 mph",
 "winddirection": "South-East",
 "windchillfactor": "23 ℃",
-"icon":"images/sun.png"
+"icon":"images/cloud_sun.png"
 },{
 "cityid": "7",
 "cityname": "Armagh",
@@ -62,7 +62,7 @@
 "windspeed": "12 mph",
 "winddirection": "East",
 "windchillfactor": "25 ℃",
-"icon":"images/sun.png"
+"icon":"images/cloud_sun.png"
 },{
 "cityid": "8",
 "cityname": "Brighton",
@@ -71,5 +71,5 @@
 "windspeed": "17 mph",
 "winddirection": "North-East",
 "windchillfactor": "25 ℃",
-"icon":"images/sun.png"
+"icon":"images/cloud_sun.png"
 }]
